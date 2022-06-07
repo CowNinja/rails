@@ -299,7 +299,7 @@ GEM
     jdbc-mysql (5.1.47)
     jdbc-postgres (42.2.14)
     jdbc-sqlite3 (3.28.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.5.1)
     json (2.5.1-java)
     jwt (2.2.2)
@@ -381,6 +381,7 @@ GEM
       thor
     raabro (1.4.0)
     racc (1.5.2)
+    racc (1.5.2-java)
     rack (2.2.3)
     rack-cache (1.12.1)
       rack (>= 0.4)
